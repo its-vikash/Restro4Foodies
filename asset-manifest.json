@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Restro4Foodies/static/css/main.d53cb541.css",
+    "main.js": "/Restro4Foodies/static/js/main.fbe7fe71.js",
+    "index.html": "/Restro4Foodies/index.html",
+    "main.d53cb541.css.map": "/Restro4Foodies/static/css/main.d53cb541.css.map",
+    "main.fbe7fe71.js.map": "/Restro4Foodies/static/js/main.fbe7fe71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d53cb541.css",
+    "static/js/main.fbe7fe71.js"
+  ]
+}
