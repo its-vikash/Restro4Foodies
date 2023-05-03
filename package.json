@@ -1,6 +1,5 @@
 {
-  "name": "restro4foodies",
-  "homepage": "https://its-vikash.github.io/Restro4Foodies",
+  "name": "my-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
